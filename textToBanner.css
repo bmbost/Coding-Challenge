@@ -1,0 +1,21 @@
+#site {
+    background-color: #000000;
+    color: #FFF;
+}
+
+#txtOutput {
+    font-family: 'VT323', monospace;
+    color: #00C000;
+    font-size: 50pt;
+    margin: 10px;
+    padding: 10px;
+}
+
+#txtInput {
+    background-color: #FFF;
+    color: #000000;
+}
+
+#btnSubmit {
+    margin-top: 10px;
+}
